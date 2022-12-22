@@ -17,14 +17,14 @@ chmod +x install-sb.sh
 ```
 # Error
   In case face an error on installation change the users as an root your and perform the same steps>
-  ''''
+ ''''
+**#Installation**
  apt-get update
-apt-get install git
-git clone https://github.com/samsesh/SocialBox-Termux.git 
-cd SocialBox-Termux
-chmod +x install-sb.sh
-./install-sb.sh
-
+ apt-get install git
+ git clone https://github.com/samsesh/SocialBox-Termux.git 
+ cd SocialBox-Termux
+ chmod +x install-sb.sh
+ ./install-sb.sh
 ''''
   
 # Screenshots :
