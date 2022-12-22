@@ -1,3 +1,4 @@
+----X---Only for an education purpose only----X----
 # SocialBox-Termux
 SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh
 # Installation
