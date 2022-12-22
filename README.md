@@ -24,6 +24,7 @@ chmod +x install-sb.sh
 ![Test Image 8](https://github.com/samsesh/SocialBox-Termux/blob/master/Screenshots/sb.png)
 # Tested On :
 * Termux on andriod (tor connected if use vpn )
+* currently testing on [linux,mac,windows,ubuntu*]
 # for any os :
 * [socialbox](https://github.com/TAMIL4455/Bruteforce)
 # Contact
