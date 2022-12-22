@@ -33,6 +33,6 @@ chmod +x install-sb.sh
 # for any os :
 * [socialbox](https://github.com/samsesh/SocialBox)
 # Contact
-* [Linked] (www.linkedin.com/in/tamilarasu-g-bb75661ab) - TAMILARASU G
+* [Linked](www.linkedin.com/in/tamilarasu-g-bb75661ab) - TAMILARASU G
 * [Instagram](https://instagram.com/guys__call__me__tamil?igshid=YmMyMTA2M2Y=)-guys__call__me__TAMIL
 
