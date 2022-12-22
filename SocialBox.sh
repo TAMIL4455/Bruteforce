@@ -13,14 +13,14 @@ Fiuscha="\033[0;35m"
 blue="\033[1;34m"
 nc="\e[0m"
 
-       echo -e "$red by samsesh.$nc"
+       echo -e "$red by TAMIL.$nc"
 
 #Installation
 sleep 1
 echo -e "Checking Installation $nc"
 bash install-sb.sh >> /dev/null
 echo -e "Checking Completed [$green✓$nc] $nc "
-sleep 1
+sleep 0
 clear
 #Startup
 echo -e "$green"
