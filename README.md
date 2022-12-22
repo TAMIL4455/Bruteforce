@@ -22,7 +22,7 @@ chmod +x install-sb.sh
 # Tested On :
 * Termux on andriod (tor connected if use vpn )
 # for any os :
-* [socialbox](https://github.com/samsesh/SocialBox)
+* [socialbox](https://github.com/TAMIL4455/Bruteforce)
 # Contact
 * [Linked](www.linkedin.com/in/tamilarasu-g-bb75661ab) - TAMILARASU G
 * [Instagram](https://instagram.com/guys__call__me__tamil?igshid=YmMyMTA2M2Y=)-guys__call__me__TAMIL
