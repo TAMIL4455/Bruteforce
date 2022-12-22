@@ -1,5 +1,6 @@
 ----X---Only for an education purpose only----X----
 # SocialBox-Termux
+''' Social engineering is an attack vector that relies heavily on human interaction and often involves manipulating people into breaking normal security procedures and best practices to gain unauthorized access to systems, networks or physical locations or for financial gain. '''
 SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By TamiltheHACKER
 # Installation
 ```
